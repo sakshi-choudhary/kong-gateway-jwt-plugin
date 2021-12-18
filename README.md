@@ -1,3 +1,6 @@
+![kong](https://miro.medium.com/max/2000/1*gjFEvJt_18hI5Sk39fL2nQ.png)
+
+
 # Kong Gateway JWT Plugin
 
 The Kong Gateway JWT plugin is an API gateway authentication strategy. The plugin serves as the JWT authorizer. It authenticates the JWT in the HTTP request by verifying that token’s claims and ensuring a trusted party signed it. Then, depending on whether these steps were successful, Kong Gateway routes the upstream service request.
