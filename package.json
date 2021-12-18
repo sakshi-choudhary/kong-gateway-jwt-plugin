@@ -1,0 +1,12 @@
+{
+  "name": "kong-jwt-plugin",
+  "version": "1.0.0",
+  "description": "kong gateway jwt plugin security",
+  "main": "index.js",
+  "repository": "https://github.com/sakshi-choudhary/sturdy-octo-pancake.git",
+  "author": "Sakshi Choudhary <choudharysakshi023@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
