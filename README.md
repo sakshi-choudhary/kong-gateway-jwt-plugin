@@ -1,5 +1,6 @@
-![kong](https://miro.medium.com/max/2000/1*gjFEvJt_18hI5Sk39fL2nQ.png)
-
+<p align="center">
+    <img src="https://miro.medium.com/max/2000/1*gjFEvJt_18hI5Sk39fL2nQ.png" width="400" alt="kong">
+</p>
 
 # Kong Gateway JWT Plugin
 
