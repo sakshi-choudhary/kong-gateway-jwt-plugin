@@ -65,7 +65,13 @@ Additional values to upstream headers in the console
 <img width="500" alt="Screenshot 2021-12-18 at 10 31 06 PM" src="https://user-images.githubusercontent.com/66865329/146651097-ae2b9f41-035e-4f43-82c6-d4439efabff3.png">
 
 
+Errors when `secret code` and `kid` are wrong and `exp` time is in the past:
 
+<img width="500" alt="Screenshot 2021-12-18 at 10 30 40 PM" src="https://user-images.githubusercontent.com/66865329/146666842-eb3cffb6-4688-4f22-856c-137a68acb7de.png">
+
+<img width="500" alt="Screenshot 2021-12-18 at 10 32 14 PM" src="https://user-images.githubusercontent.com/66865329/146666837-95cf3997-5a19-42ab-9a13-8a850f2c57ad.png">
+
+<img width="500" alt="Screenshot 2021-12-18 at 10 34 22 PM" src="https://user-images.githubusercontent.com/66865329/146666838-34bcfe42-a033-4975-8772-76141af647bc.png">
 
 
 <blockquote align="center"> 
